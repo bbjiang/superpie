@@ -1,7 +1,7 @@
 # superpie
 A superior pie chart in MATLAB
 
-<div align=center><img width="900" height="300" src="outfig_superpie.jpg" style="display: block; margin: auto;" ></div>
+<div align=center><img src="outfig_superpie.jpg" style="display: block; margin: auto;" ></div>
 
 ```matlab
 % 1-click running superpie
